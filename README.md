@@ -3,10 +3,10 @@
 
 ## About Me 
 - 👀 I’m interested in working on innovative AI projects
-- 🌱 I’m currently learning Artificial Intelligence & Agentic AI.
+- 🌱 I’m currently learning Artificial Intelligence Engineering & Agentic AI at [NeuraSphere](https://neurasphere.net/).
 - 💞️ I’m looking to collaborate on international projects
 - 📫 Anyone can reach out to me at saadshazia19@gmail.com
-- 😄 I have participated in several Hackathons & coding competitions.
+- 😄 I have participated in several Hackathons & coding competitions in [Lablab.ai](https://lablab.ai/) & [WP Brigade](https://wpbrigade.com/).
 - ⚡ I love hanging out with my friends and siblings, along with some Hi-tea.
 
 ## Tech Stack🛠️
