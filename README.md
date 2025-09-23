@@ -53,7 +53,7 @@
 
 ### 🔗 AI Integrations
 **APIs I have learned & used:**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/…/Google_Gemini_logo.svg" alt="Google Gemini Logo" width="120"/>
+<img src="https://github.com/mariam-2324/mariam-2324/blob/main/gemini.png?raw=true" alt="Gemini Logo" width="120"/>
 <img src="https://brandfetch.com/api/logo?url=groq.com" alt="Groq Logo" width="120"/>
 
 
